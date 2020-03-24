@@ -1,6 +1,6 @@
 {
-    "name": "web_test",
-    "short_name": "web_test",
+    "name": "yumi_note",
+    "short_name": "yumi_note",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
