@@ -9542,7 +9542,7 @@ _.c=c
 _.d=d
 _.e=e},
 azW:function(){var s=$.akX()
-s.fN$=B.VY("http://www.yumisky.fun/",null)
+s.fN$=B.VY("https://www.yumisky.fun/",null)
 s=s.mo$
 s.I(s,new L.ob(new A.XY()))},
 apE:function(a,b){var s,r
@@ -74940,7 +74940,7 @@ n=n===1?M.kE(C.ar,!0,r,M.ad(C.M,T.dC(H.a([U.d8(o,r,r,r,r),M.ad(r,r,r,r,r,16,r,r,
 a06:function(){var s=U.apG(null),r=s.mo$
 r.I(r,new L.ob(new Z.ae6(this)))
 r=t.z
-s.ad_("http://www.yumisky.fun/token",Y.aqg(P.aA(["code",this.d],t.X,r)),r).b4(0,new Z.ae7(this),t.P)},
+s.ad_("https://www.yumisky.fun/token",Y.aqg(P.aA(["code",this.d],t.X,r)),r).b4(0,new Z.ae7(this),t.P)},
 IU:function(){D.cR().$1("_goToHome")
 P.Hj(P.cS(0,0,0,0,3),t.z).b4(0,new Z.ae8(this),t.P)}}
 Z.ae6.prototype={
@@ -75459,7 +75459,7 @@ j:function(a){return this.b}}
 O.NU.prototype={}
 O.NV.prototype={}
 M.o0.prototype={
-RA:function(){var s=t.z,r=U.apG(B.VY(null,P.aA(["Authorization","token 084844ccd733131872899f67843ade40d44ee485"],t.X,s))),q=r.mo$
+RA:function(){var s=t.z,r=U.apG(B.VY(null,P.aA(["Authorization","token 216268673c7fc5b422e357b92060a33f4792b7e0"],t.X,s))),q=r.mo$
 q.I(q,new L.ob(new M.a0h()))
 r.Rj(0,"https://api.github.com/users/yumi0629/events",s).b4(0,new M.a0i(this),t.P)},
 $iaj:1}
@@ -80623,7 +80623,7 @@ r($,"aKD","UY",function(){return new L.abp(P.S("[/\\\\]",!0,!1),P.S("[^/\\\\]$",
 r($,"aKC","Em",function(){return new F.ab7(P.S("/",!0,!1),P.S("(^[a-zA-Z][-+.a-zA-Z\\d]*://|[^/])$",!0,!1),P.S("[a-zA-Z][-+.a-zA-Z\\d]*://[^/]*",!0,!1),P.S("^/",!0,!1))})
 r($,"aKA","aoh",function(){return O.aDg()})
 q($,"aCV","avH",function(){return new F.a30()})
-q($,"aJe","av1",function(){return P.nf(C.Bq,"http://yumi0629.github.io/#/github_login",C.A,!1)})
+q($,"aJe","av1",function(){return P.nf(C.Bq,"https://yumi0629.github.io/#/github_login",C.A,!1)})
 q($,"aJM","akX",function(){return U.azX(null)})
 q($,"aM6","awB",function(){var p,o=null,n=A.aX(o,o,C.p,o,o,o,o,o,o,o,o,22,o,o,o,1.5,!0,o,o,o,o,o,o),m=A.aX(o,o,C.p,o,o,o,o,o,o,o,o,21,o,o,o,1.5,!0,o,o,o,o,o,o),l=A.aX(o,o,C.p,o,o,o,o,o,o,o,o,20,o,o,o,1.5,!0,o,o,o,o,o,o),k=A.aX(o,o,C.p,o,o,o,o,o,o,o,o,19,o,o,o,1.5,!0,o,o,o,o,o,o),j=A.aX(o,o,C.p,o,o,o,o,o,o,o,o,18,o,o,o,1.5,!0,o,o,o,o,o,o),i=A.aX(o,o,C.p,o,o,o,o,o,o,o,o,17,o,o,o,1.5,!0,o,o,o,o,o,o),h=A.aX(o,o,C.t,o,o,o,o,o,o,o,o,16,o,o,o,1.5,!0,o,o,o,o,o,o),g=A.aX(o,o,C.O,o,o,o,o,o,o,o,o,14,o,o,o,1.5,!0,o,o,o,o,o,o),f=C.jg.i(0,50)
 f.toString
