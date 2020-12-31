@@ -76040,7 +76040,7 @@ j:function(a){return this.b}}
 O.O2.prototype={}
 O.O3.prototype={}
 M.o0.prototype={
-RT:function(){var s=t.z,r=U.apM(B.Wa(null,P.aA(["Authorization","token f4ebe9546bc3d18f306a53197ee3882400d2988e"],t.X,s))),q=r.ms$
+RT:function(){var s=t.z,r=U.apM(B.Wa(null,P.aA(["Authorization","f4ebe9546bc3d18f306a53197ee3882400d2988e"],t.X,s))),q=r.ms$
 q.H(q,new L.ob(new M.a0w()))
 r.RC(0,"https://api.github.com/users/yumi0629/events",s).b7(0,new M.a0x(this),t.P)},
 $iah:1}
